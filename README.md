@@ -1,9 +1,9 @@
-# CONCEPTES-OOP
+# Conceptes Programació Orientada a Objectes
 ![image](https://github.com/ulisescastell/CONCEPTES-POO/assets/149115239/008181f7-ce87-4f70-814f-5e24f564191a)
 
 ## 1. Què és una classe?
 
-Una classe és l'element central en la OOP És la definició de un nou tipus de dades complexa ja que té mètodes, atributs i tipus de dades diferents.
+Una classe és l'element central en la OOP. És la definició de un nou tipus de dades complexa ja que té mètodes, atributs i tipus de dades diferents.
 
 ## 2. Què és un objecte?
 
