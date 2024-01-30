@@ -1,6 +1,5 @@
 # CONCEPTES-POO
-
-CONCEPTES POO
+![image](https://github.com/ulisescastell/CONCEPTES-POO/assets/149115239/008181f7-ce87-4f70-814f-5e24f564191a)
 
 ## 1. Què és una classe?
 
@@ -38,13 +37,13 @@ Un parametre és un valor que rep un mètode.
 
 És un mètode especial que s'empra dins una classe per inicialitzar els valors.
 
-### Constructor primari:
+### a) Constructor primari:
 	
  Sempre ha d'estar present.
 	
-### Constructor secundari:
+### b) Constructor secundari:
 	
-	N'hi pot haver més d'un i serveix per inicialitzar l'objecte diferents tipus de vegades.
+N'hi pot haver més d'un i serveix per inicialitzar l'objecte diferents tipus de vegades.
 	
 ## 10. Què és l'init?
 
@@ -58,11 +57,11 @@ Són les accions que és poden fer amb l'objecte.
 
 Ens permeten indicar qui pot utilitzar una clase o els seus atributs i mètodes. És una restricció. És *OBLIGATORI* que el privat 
 
-### Public:
+### a) Public:
 	
-Si posem tots els atributs a public, es podrá desde el main accedir a qualsevol atribut 							o valor. 
+Si posem tots els atributs a public, es podrá desde el main accedir a qualsevol atribut o valor. 
 	
-### Privat:
+### b) Privat:
 	
 Aquí possarem tots els atributs.
 	
