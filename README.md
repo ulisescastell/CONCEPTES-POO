@@ -34,7 +34,7 @@ Un parametre és un valor que rep un mètode.
 
 És una instància executable. És una clase especial. Cada clase es guardará en un fitxer separat on aquet ha de tenir recomanadament el mateix nom de la funció.
 
-9. Què és un constructor?
+## 9. Què és un constructor?
 
 És un mètode especial que s'empra dins una classe per inicialitzar els valors.
 
@@ -42,7 +42,7 @@ Un parametre és un valor que rep un mètode.
 	
  Sempre ha d'estar present.
 	
-### b) Constructor secundari:
+### Constructor secundari:
 	
 	N'hi pot haver més d'un i serveix per inicialitzar l'objecte diferents tipus de vegades.
 	
